@@ -9,4 +9,5 @@
 [2. 의미 있는 이름](2_MeaningfulNames.md)  
 [3. 함수](3_Functions.md)  
 [4. 주석](4_Comments.md)  
-[5. 형식 맞추기](5_Formatting.md) 
+[5. 형식 맞추기](5_Formatting.md)  
+[6. 객체와 자료 구조](6_Object&DataStructure.md) 
